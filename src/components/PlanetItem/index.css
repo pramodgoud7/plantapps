@@ -1,0 +1,19 @@
+.img {
+  height: 200px;
+}
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+.name-h1 {
+  color: #f8fafc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p1 {
+  color: #f8fafc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  align-self: center;
+}
